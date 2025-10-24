@@ -51,15 +51,7 @@ Before you begin, make sure you have the following installed:
 
 ### Installation
 
-**Option 1: Automated Setup**
-If you prefer a quick setup, you can use the automated script:
-```bash
-chmod +x setup.sh
-./setup.sh
-```
 
-**Option 2: Manual Setup**
-For more control over the installation process:
 
 1. **Install server dependencies**
    ```bash
